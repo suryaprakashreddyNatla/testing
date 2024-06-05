@@ -1,0 +1,5 @@
+11:17:33.640 [main] ERROR log4j.test2 - It is an error logger.
+11:17:33.659 [main] FATAL log4j.test2 - It is a fatal logger.
+11:17:33.661 [main] INFO  log4j.test2 - It is a info logger.
+11:17:33.663 [main] WARN  log4j.test2 - It is a warn logger.
+I am adding a new statement when in the second branch
